@@ -1,0 +1,76 @@
+.wrap{
+    background-color: red;
+
+}
+.nav-link{
+    width: 150px;
+    height: 150px;
+    background-color: sienna;
+    float: left;
+}
+.nav-list{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(0, 255, 34);
+    float: right;
+}
+.clearfix{
+    clear: both;
+}
+.wrap-next{
+    background-color: coral;
+}
+.rest-link{
+    width: 200px;
+    height: 200px;
+    background-color: darkblue;
+    float: left;
+}
+.rest-list{
+    width: 100px;
+    height: 100px;
+    background-color: darkgoldenrod;
+    float: right;
+}
+.rest-lost{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(184, 11, 184);
+    float: right;
+
+}
+.rest-past{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(184, 46, 11);
+    float: right;
+
+}
+.rest-next{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(181, 184, 11);
+    float: right;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
