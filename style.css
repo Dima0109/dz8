@@ -53,13 +53,52 @@
     float: right;
 
 }
-
-
-
-
-
-
-
+.header{
+    background-color: greenyellow;
+}
+.logo{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border: 3px solid blue;
+    float: left;
+}
+.logo-past{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border: 3px solid blue;
+    float: left;
+}
+.logo-lost{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border: 3px solid blue;
+    float: right;
+}
+.logo-link{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border: 3px solid blue;
+    float: right;
+}
+.wrapper{
+    background-color: darkkhaki;
+}
+.container{
+    width: 500px;
+    margin: auto;
+    background-color: darkslateblue;
+}
+.children{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    background-color:green;
+    border: 2px solid red;
+}
 
 
 
