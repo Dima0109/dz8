@@ -103,32 +103,36 @@
     height: 100px;
     border: 1px solid red;
 }
-.wrp{
-    background-color: rgb(128, 165, 42);
+.rt{
+    background-color: blue;
+    height: 400px;
 }
-.cont{
-    border: 1px solid black;
-    margin: auto;
+.rty{
+    width: 800px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
 }
-.childr{
-    width: 200px;
-    height: 200px;
-    border: 1px solid blue;
-    display: inline-block;
+.fg{
+    width: 400px;
+    height: 300px;
+    float: right;
 }
-.car{
-    width: 200px;
-    height: 200px;
-    display: inline-block;
+.fgh{
+    background-color: darkgreen;
+    width: 400px;
+    height: 300px;
 }
-.chil{
-    width: 50px;
-    height: 50px;
-    border: 1px solid red;
+.vb{
+    background-color: darkslateblue;
+    width: 300px;
+    height: 150px;
 }
-
-
-
+.vbn{
+    background-color: deepskyblue;
+    width: 300px;
+    height: 150px;
+}
 
 
 
